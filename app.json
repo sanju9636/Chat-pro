@@ -1,5 +1,5 @@
 {
-  "name": "AMBOT",
+  "name": "LOFI",
   "description": "A telegram bot",
   "logo": "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/AbhiModszYT/chat-bot",
+  "repository": "https://github.com/sanju9636/Chat-pro",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
